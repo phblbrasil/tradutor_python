@@ -1,0 +1,14 @@
+INPUT,English,Portuguese
+TITLE,Hello,olá
+SELECT,Change language,alterar idioma.
+TITLE,Login to your Fullbridge Link account,faça login na sua conta do fullbridge link.
+TITLE_NEW,Login to your Link account,faça login na sua conta do link.
+SUB_TITLE,Welcome to Fullbridge customer service portal. Login with username and password that you received.,bem-vindo ao portal de serviço ao cliente da fullbridge. faça login com o nome de usuário e senha que você recebeu.
+FORGOT_PASSWORD,Forgot Password?,esqueci a senha.
+REMIND_ME,Remind me,lembre-me.
+MSG_USER_REQUIRED,Username is required,username é obrigatório.
+MSG_PASSWD_REQUIRED,Password is required,senha é necessária.
+MSG_NEW_PASSWD_LENGTH_RULE,New password should have atleast 6 characters in length,nova senha deve ter pelo menos 6 caracteres de comprimento.
+MSG_NEW_PASSWD_CHAR_RULE,New password should have atleast one character,nova senha deve ter pelo menos um caractere.
+MSG_NEW_PASSWD_NUMBER_RULE,New password should have atleast one number,a nova senha deve ter pelo menos um número.
+MSG_NEW_PASSWD_UPPER_RULE,New password should have atleast one upper case,a nova senha deve ter pelo menos uma letra maiúscula.

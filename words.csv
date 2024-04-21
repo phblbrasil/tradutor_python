@@ -1,0 +1,14 @@
+﻿INPUT,English
+TITLE,Hello
+SELECT,Change language
+TITLE,Login to your Fullbridge Link account
+TITLE_NEW,Login to your Link account
+SUB_TITLE,Welcome to Fullbridge customer service portal. Login with username and password that you received.
+FORGOT_PASSWORD,Forgot Password?
+REMIND_ME,Remind me
+MSG_USER_REQUIRED,Username is required
+MSG_PASSWD_REQUIRED,Password is required
+MSG_NEW_PASSWD_LENGTH_RULE,New password should have atleast 6 characters in length
+MSG_NEW_PASSWD_CHAR_RULE,New password should have atleast one character
+MSG_NEW_PASSWD_NUMBER_RULE,New password should have atleast one number
+MSG_NEW_PASSWD_UPPER_RULE,New password should have atleast one upper case
